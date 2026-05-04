@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Erick Moreno</h1>
+<h1 align="center"> Hola, soy Erick Moreno</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -13,11 +13,12 @@
 
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 
-💻 Desarrollador en formación enfocado en crear software funcional y bien estructurado
-⚡ Apasionado por Java, desarrollo web y bases de datos
-📈 Mejorando constantemente mis habilidades técnicas
+Soy un desarrollador en formación enfocado en construir proyectos funcionales y bien estructurados.
+Me gusta aprender haciendo, creando aplicaciones reales donde aplico lógica, diseño y organización del código.
+-Apasionado por Java, desarrollo web y bases de datos
+-Mejorando constantemente mis habilidades técnicas
 
 🎯 Objetivo: Convertirme en desarrollador profesional y trabajar en proyectos reales
 
@@ -47,7 +48,7 @@
 
 ### 🎮 Tienda de videojuegos + Bot de Telegram
 
-Sistema completo en Java con POO, base de datos, CRUD y documentación técnica
+Sistema completo en Java con base de datos, estructura orientada a objetos, CRUD y documentación técnica.
 
 ---
 
@@ -55,6 +56,10 @@ Sistema completo en Java con POO, base de datos, CRUD y documentación técnica
 
 Aplicación web con lógica CRUD y estructura modular
 
+---
+🗄️ Base de datos de productos
+
+Diseño avanzado en MySQL usando triggers, procedimientos almacenados y consultas complejas.
 ---
 
 ### 🎬 Cineflix
@@ -110,7 +115,7 @@ Clon visual tipo Netflix enfocado en diseño UI
 
 ## Contacto  
 
-📧 ersantiagomoreno@gmail.com  
+📧  ersantiagomoreno@gmail.com  
 
 ---
 
