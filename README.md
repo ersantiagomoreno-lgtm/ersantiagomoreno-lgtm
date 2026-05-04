@@ -1,51 +1,111 @@
- #  Hola, soy Erick Moreno  
+<h1 align="center">👋 Hola, soy Erick Moreno</h1>
 
-💻 Estudiante de Desarrollo de Software  
-🚀 Apasionado por el desarrollo web, bases de datos y aplicaciones de escritorio  
-📍 Colombia  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desarrollador+en+formaci%C3%B3n;Java+%7C+Web+Developer;Construyendo+proyectos+reales;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%94%A5">
+  </a>
+</p>
 
-## Sobre mí  
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+</p>
 
-Soy un estudiante enfocado en mejorar mis habilidades en programación, especialmente en desarrollo web, programación orientada a objetos y bases de datos.  
-Me gusta crear proyectos prácticos donde aplico lógica, diseño y buenas prácticas de organización del código.  
-También comparto parte de mi proceso de aprendizaje y los proyectos que he desarrollado a lo largo del tiempo.  
+---
 
-Interesado en:  
-- Inteligencia Artificial  
-- Ciberseguridad  
-- Desarrollo de videojuegos  
+## 🚀 Sobre mí
 
+💻 Desarrollador en formación enfocado en crear software funcional y bien estructurado
+⚡ Apasionado por Java, desarrollo web y bases de datos
+📈 Mejorando constantemente mis habilidades técnicas
 
-## Tecnologías  
+🎯 Objetivo: Convertirme en desarrollador profesional y trabajar en proyectos reales
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+---
 
+## 🛠️ Tecnologías
 
-## Proyectos destacados  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github" />
+</p>
 
-🔹 **Sistema de gestión de tareas**  
-Aplicación web para organizar tareas (agregar, eliminar y marcar como completadas).  
+---
 
-🔹 **Base de datos de productos (MySQL)**  
-Implementación de funciones, triggers, procedimientos almacenados y consultas avanzadas para la gestión y clasificación de productos.  
+## 🧠 Intereses
 
-🔹 **Cineflix (Página web)**  
-Interfaz tipo Netflix desarrollada con HTML y CSS.  
+<p align="center">
 
-🔹 **Tienda de videojuegos + bot de Telegram (Java)**  
-Aplicación de escritorio con base de datos que incluye CRUD completo, levantamiento de requerimientos, manual técnico y de usuario, y uso de múltiples clases aplicando programación orientada a objetos.  
+![AI](https://img.shields.io/badge/Inteligencia%20Artificial-0A66C2?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Ciberseguridad-black?style=for-the-badge)
+![GameDev](https://img.shields.io/badge/Game%20Dev-purple?style=for-the-badge)
 
+</p>
 
-## Estadísticas  
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ersantiagomoreno-lgtm&show_icons=true&theme=tokyonight)
+## 💼 Proyectos Destacados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ersantiagomoreno-lgtm&layout=compact&theme=tokyonight)
+### 🎮 Tienda de videojuegos + Bot de Telegram
 
+Sistema completo en Java con POO, base de datos, CRUD y documentación técnica
+
+---
+
+### 📝 Sistema de gestión de tareas
+
+Aplicación web con lógica CRUD y estructura modular
+
+---
+
+### 🎬 Cineflix
+
+Clon visual tipo Netflix enfocado en diseño UI
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ersantiagomoreno-lgtm&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ersantiagomoreno-lgtm&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersantiagomoreno-lgtm&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Logros
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ersantiagomoreno-lgtm&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🐍 Animación de contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ersantiagomoreno-lgtm/ersantiagomoreno-lgtm/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="mailto:ersantiagomoreno@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+<h3 align="center">🔥 Construyendo mi camino como desarrollador 🔥</h3>
 
 
 ## Contacto  
