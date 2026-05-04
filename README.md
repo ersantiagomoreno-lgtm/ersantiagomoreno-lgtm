@@ -112,7 +112,7 @@ Clon visual tipo Netflix enfocado en diseño UI
 ---
 
 <h3 align="center">🔥 Construyendo mi camino como desarrollador 🔥</h3>
-
+<h3 align="center">🔥 Mejorando mi perfil día a día 🔥 </h3>
 
  
 
