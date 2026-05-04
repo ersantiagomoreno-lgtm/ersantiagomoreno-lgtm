@@ -105,6 +105,7 @@ Clon visual tipo Netflix enfocado en diseño UI
 <p align="center">
   <a href="mailto:ersantiagomoreno@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+    📧  ersantiagomoreno@gmail.com  
   </a>
 </p>
 
@@ -113,10 +114,6 @@ Clon visual tipo Netflix enfocado en diseño UI
 <h3 align="center">🔥 Construyendo mi camino como desarrollador 🔥</h3>
 
 
-## Contacto  
-
-📧  ersantiagomoreno@gmail.com  
-
----
+ 
 
 Gracias por visitar mi perfil
