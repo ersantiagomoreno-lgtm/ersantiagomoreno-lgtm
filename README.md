@@ -24,7 +24,7 @@ Me gusta aprender haciendo, creando aplicaciones reales donde aplico lógica, di
 
 ---
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github" />
@@ -32,7 +32,7 @@ Me gusta aprender haciendo, creando aplicaciones reales donde aplico lógica, di
 
 ---
 
-## 🧠 Intereses
+##  Intereses
 
 <p align="center">
 
@@ -44,31 +44,31 @@ Me gusta aprender haciendo, creando aplicaciones reales donde aplico lógica, di
 
 ---
 
-## 💼 Proyectos Destacados
+##  Proyectos Destacados
 
-### 🎮 Tienda de videojuegos + Bot de Telegram
+###  Tienda de videojuegos + Bot de Telegram
 
 Sistema completo en Java con base de datos, estructura orientada a objetos, CRUD y documentación técnica.
 
 ---
 
-### 📝 Sistema de gestión de tareas
+### Sistema de gestión de tareas
 
 Aplicación web con lógica CRUD y estructura modular
 
 ---
-🗄️ Base de datos de productos
+Base de datos de productos
 
 Diseño avanzado en MySQL usando triggers, procedimientos almacenados y consultas complejas.
 ---
 
-### 🎬 Cineflix
+### Cineflix
 
 Clon visual tipo Netflix enfocado en diseño UI
 
 ---
 
-## 📊 Estadísticas
+##  Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ersantiagomoreno-lgtm&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -84,7 +84,7 @@ Clon visual tipo Netflix enfocado en diseño UI
 
 ---
 
-## 🏆 Logros
+##  Logros
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ersantiagomoreno-lgtm&theme=tokyonight&no-frame=true&row=1&column=6"/>
