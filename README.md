@@ -100,7 +100,7 @@ Clon visual tipo Netflix enfocado en diseño UI
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 <p align="center">
   <a href="mailto:ersantiagomoreno@gmail.com">
