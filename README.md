@@ -13,14 +13,14 @@
 
 ---
 
-##  Sobre mí
+##  Sobre mi
 
 Soy un desarrollador en formación enfocado en construir proyectos funcionales y bien estructurados.
 Me gusta aprender haciendo, creando aplicaciones reales donde aplico lógica, diseño y organización del código.
 -Apasionado por Java, desarrollo web y bases de datos
 -Mejorando constantemente mis habilidades técnicas
 
-🎯 Objetivo: Convertirme en desarrollador profesional y trabajar en proyectos reales
+ Objetivo: Convertirme en desarrollador profesional y trabajar en proyectos reales
 
 ---
 
